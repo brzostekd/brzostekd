@@ -4,4 +4,4 @@ My name is **Daniel Brzostek**, and I am a highly motivated software developer s
 
 ### My Portfolio
 
-Check out my portfolio website [here](https://brzostekd.github.io/). It includes detailed descriptions of my projects, my skills, and my contact information.
+Check out my portfolio website [**here**](https://brzostekd.github.io/). It includes detailed descriptions of my projects, my skills, and my contact information.
